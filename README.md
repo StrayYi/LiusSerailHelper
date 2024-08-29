@@ -1,4 +1,4 @@
-# ********************  LiusSerailHelper *********************
+# ******  LiusSerailHelper ******
 基于 QtSerialProt 实现的串口调试助手
 
 # 当前版本：V1.0.0
