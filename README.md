@@ -1,3 +1,4 @@
+这是一个数据结构课设
 # ******  LiusSerailHelper ******
 基于 QtSerialProt 实现的串口调试助手
 
